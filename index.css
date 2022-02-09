@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(209, 182, 235);
+}
+/*
+body {      
+    background-image: url(/img/auto1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+*/
+.seguro {
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+    font-size: 40px;
+    color:blanchedalmond;
+    padding-top: 30px; 
+}
+.tablita {
+    background-color: white;
+    color: black;
+    opacity: 75%;
+    text-align: center;
+    justify-content: center;
+}
+
+.tableta {
+    background-color: white;
+    width: 50%;
+    text-align: center;
+
+    
+    
+}
+/*
+.textofinal{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10px;
+    color: #000;
+    padding-top: 30px; 
+
+}
+*/
+
+.tablaPrincipal{
+    margin: 50px auto;
+    width: 600px;
+    text-align: center;
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+.parrafito{
+    text-align: right;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+}
+.dolar{
+    text-align: right;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+}
+
+#fondo {
+	width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 990;opacity: 0.8;background:#000;
+}
+#flotante {
+	z-index: 999; border: 8px solid #fff; margin-top: -756px; margin-left: -153px; top: 50%; left: 50%; padding: 12px; position: fixed; width: 265px; background-color: #fff; border-radius: 3px;
+}
+
+#flotanteDolar {
+	z-index: 999; border: 8px solid #fff; margin-top: -756px; margin-left: -153px; top: 50%; left: 50%; padding: 12px; position: fixed; width: 265px; background-color: #fff; border-radius: 3px;
+
+}
+
+

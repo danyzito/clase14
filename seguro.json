@@ -1,0 +1,24 @@
+[
+    {
+        "tipo": "Black",
+        "cristales": "Si",
+        "robo": "Si",
+        "rastreador": "Si",
+        "precio": 6000
+    },
+    {
+        "tipo": "Golden",
+        "cristales": "Si",
+        "robo": "Si",
+        "rastreador": "No",
+        "precio": 5000
+    },
+    {
+        "tipo": "Silver",
+        "cristales": "No",
+        "robo": "Si",
+        "rastreador": "No",
+        "precio": 4000
+    }
+
+]
