@@ -1,0 +1,21 @@
+[
+    {
+        "nombre": "Matias",
+        "apellido": "Zito",
+        "mail": "matiaszito@gmail.com",
+        "password": "12345"
+    },
+    {
+        "nombre": "Daniel",
+        "apellido": "Zito",
+        "mail": "danyzito@gmail.com",
+        "password": "12345678"
+    },
+    {
+        "nombre": "Mimi",
+        "apellido": "Osa",
+        "mail": "mimosa@gmail.com",
+        "password": "12345678"
+    }
+
+]
